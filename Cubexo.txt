@@ -1,0 +1,5 @@
+Name : Gourang Kumrawat
+Instruction:
+1:Import the given database.
+2.Run Index.html
+3.Enter the required data which is asked in form
